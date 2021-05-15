@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/suspicious_stew"
+    },
+    "overrides":[
+
+     {"predicate": {"custom_model_data": 4701012}, "model": "item/midnight_broth"}
+
+     ]
+}

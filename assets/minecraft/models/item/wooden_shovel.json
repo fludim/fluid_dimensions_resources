@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/wooden_shovel"
+    },
+    "overrides":[
+
+     {"predicate": {"custom_model_data": 4701050}, "model": "item/occulus"},
+     {"predicate": {"custom_model_data": 4701051}, "model": "item/cochineal"},
+     {"predicate": {"custom_model_data": 4701052}, "model": "item/void_veil"},
+     {"predicate": {"custom_model_data": 4701053}, "model": "item/void_veil"},
+     {"predicate": {"custom_model_data": 4701054}, "model": "item/pod/stage_0"},
+     {"predicate": {"custom_model_data": 4701055}, "model": "item/pod/stage_1"},
+     {"predicate": {"custom_model_data": 4701056}, "model": "item/pod/stage_2"},
+     {"predicate": {"custom_model_data": 4701057}, "model": "item/pod/stage_3"},
+     {"predicate": {"custom_model_data": 4701058}, "model": "item/pod/ready"},
+     {"predicate": {"custom_model_data": 4701059}, "model": "item/pod/empty"}
+
+     ]
+}

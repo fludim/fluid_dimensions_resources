@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=double,waterlogged=true": {
+      "model": "minecraft:block/garnet_ore"
+    }
+  }
+}

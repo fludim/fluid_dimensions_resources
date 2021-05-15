@@ -1,0 +1,46 @@
+{
+  "block.fd.nullite_ore": "Nullite Ore",
+  "block.fd.garnet_ore": "Garnet Ore",
+
+  "item.fd.sky_pearl": "Sky Pearl",
+  "item.fd.stygian_iris": "Stygian Iris",
+  "item.fd.nullite_piece": "Nullite Piece",
+  "item.fd.enchanted_warped_door": "Enchanted Warped Door",
+  "item.fd.universal_altimeter": "Universal Altimeter",
+  "item.fd.garnet": "Garnet",
+  "item.fd.void_veil": "Void Veil",
+  "item.fd.nadir_gel": "Nadir Gel",
+  "item.fd.hiatuan_cloth": "Hiatuan Cloth",
+  "item.fd.midnight_broth": "Midnight Broth",
+  "item.fd.sharpened_diamond_pickaxe": "Sharpened Diamond Pickaxe",
+
+  "advancement.fd.another_way.t": "Another Way",
+  "advancement.fd.another_way.d": "§9Travel between dimensions by flying (or falling), rather than portals",
+  "advancement.fd.back_to_earth.t": "Back to Earth",
+  "advancement.fd.back_to_earth.d": "§9Use a Sky Pearl in the Upper Sky, returning you to the Overworld",
+  "advancement.fd.milk_pod.t": "Soup and Sodown",
+  "advancement.fd.milk_pod.d": "§9How in the worlds did you figure this one out?",
+  "advancement.fd.nothing_to_see_here.t": "§5Nothing to See Here",
+  "advancement.fd.nothing_to_see_here.d": "§9Reach y = 1000 in the Upper Sky",
+  "advancement.fd.obtain_nullite.t": "You found a ",
+  "advancement.fd.obtain_nullite.d": "§9Collect a Nullite Piece",
+  "advancement.fd.obtain_sky_pearl.t": "For my cloud necklace",
+  "advancement.fd.obtain_sky_pearl.d": "§9Collect a Sky Pearl. I wonder what it does...",
+  "advancement.fd.root.t": "§6§lFluid Dimensions",
+  "advancement.fd.root.d": "All the advancements from this pack",
+  "advancement.fd.stares_back.t": "...Stares Back",
+  "advancement.fd.stares_back.d": "§9Summon the boss of the Underridge Dimension",
+  "advancement.fd.the_abyss.t": "The Abyss",
+  "advancement.fd.the_abyss.d": "§9Visit the Underridge Dimension",
+
+  "actionbar.fd.absolute_y_position": "Absolute Y Position: ",
+
+  "entity.fd.cochineal": "Cochineal",
+  "entity.fd.psirot": "Psirot",
+  "entity.fd.haunted_armor": "Haunted Armour",
+  "entity.fd.i": "I",
+
+  "build.tooHigh": "It's too far from the ground up here",
+
+  "annoyingcommastopper": ","
+}

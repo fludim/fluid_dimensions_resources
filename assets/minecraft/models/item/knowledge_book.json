@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/knowledge_book"
+    },
+    "overrides":[
+
+     {"predicate": {"custom_model_data": 4701002}, "model": "item/stygian_iris"}
+
+     ]
+}

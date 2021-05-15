@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/charcoal"
+    },
+    "overrides":[
+
+      {"predicate": {"custom_model_data": 4701010}, "model": "item/nadir_gel"}
+
+    ]
+}

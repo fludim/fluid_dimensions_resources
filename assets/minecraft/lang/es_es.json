@@ -1,0 +1,46 @@
+{
+  "block.fd.nullite_ore": "Mena de nullite",
+  "block.fd.garnet_ore": "Mena de granate",
+
+  "item.fd.sky_pearl": "Perla del cielo",
+  "item.fd.stygian_iris": "Iris estigio",
+  "item.fd.nullite_piece": "Pieza de nullite",
+  "item.fd.enchanted_warped_door": "Puerta distorsionada encantada",
+  "item.fd.universal_altimeter": "Alt\u00edmetro universal",
+  "item.fd.garnet": "Granate",
+  "item.fd.void_veil": "Velo de vac\u00edo",
+  "item.fd.nadir_gel": "Gel del nadir",
+  "item.fd.hiatuan_cloth": "Pa\u00f1o hiatuan",
+  "item.fd.midnight_broth": "Caldo de medianoche",
+  "item.fd.sharpened_diamond_pickaxe": "Pico de diamante afilado",
+
+  "advancement.fd.another_way.t": "De otra manera",
+  "advancement.fd.another_way.d": "§9Viajar entre dimensiones volando (o cayendo), en lugar de usar portales",
+  "advancement.fd.back_to_earth.t": "De vuelta a la tierra",
+  "advancement.fd.back_to_earth.d": "§9Usa una perla del cielo en el Cielo Superior, regres\u00e1ndote a la superficie",
+  "advancement.fd.milk_pod.t": "Soparriba y sopabajo",
+  "advancement.fd.milk_pod.d": "§9¿C\u00f3mo diablos averiguaste esto?",
+  "advancement.fd.nothing_to_see_here.t": "§5Nada que ver aqu\u00ed",
+  "advancement.fd.nothing_to_see_here.d": "§9Alcanza un kil\u00f3metro de altura en el Cielo Superior",
+  "advancement.fd.obtain_nullite.t": "Encontraste un ",
+  "advancement.fd.obtain_nullite.d": "§9Recoge una pieza de nullite",
+  "advancement.fd.obtain_sky_pearl.t": "Para mi collar de nubes",
+  "advancement.fd.obtain_sky_pearl.d": "§9Recoge una perla del cielo. Me pregunto que hace...",
+  "advancement.fd.root.t": "§6§lDimensiones Fluidos",
+  "advancement.fd.root.d": "Todos los progresos de este data pack",
+  "advancement.fd.stares_back.t": "...devuelve la mirada",
+  "advancement.fd.stares_back.d": "§9Invoca al jefe de la dimensi\u00f3n Underridge",
+  "advancement.fd.the_abyss.t": "El Abismo",
+  "advancement.fd.the_abyss.d": "§9Visita la dimensi\u00f3n Underridge",
+
+  "actionbar.fd.absolute_y_position": "Posici\u00f3n vertical absoluta: ",
+
+  "entity.fd.cochineal": "Cochinilla",
+  "entity.fd.psirot": "Psirot",
+  "entity.fd.haunted_armor": "Armadura pose\u00edda",
+  "entity.fd.i": "I",
+
+  "build.tooHigh": "Est\u00e1 demasiado lejos del suelo aqu\u00ed",
+
+  "annoyingcommastopper": ","
+}
