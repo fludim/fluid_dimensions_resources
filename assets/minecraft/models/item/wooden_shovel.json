@@ -13,8 +13,7 @@
      {"predicate": {"custom_model_data": 4701055}, "model": "item/pod/stage_1"},
      {"predicate": {"custom_model_data": 4701056}, "model": "item/pod/stage_2"},
      {"predicate": {"custom_model_data": 4701057}, "model": "item/pod/stage_3"},
-     {"predicate": {"custom_model_data": 4701058}, "model": "item/pod/ready"},
-     {"predicate": {"custom_model_data": 4701059}, "model": "item/pod/empty"}
+     {"predicate": {"custom_model_data": 4701058}, "model": "item/pod/ripe"}
 
      ]
 }
