@@ -10,15 +10,16 @@ I kept all the values different anyway just so it's easier, even if they have an
 Sky Pearl              snowball                   01
 Stygian Iris           knowledge_book             02
 Nullite Piece          fermented_spider_eye       03
-Nullite Ore            purpur_slab                04
+Nullite Ore            glow_item_frame            04 * wooden_shovel -> Nullite Ore Overlay
 Enchanted Warped Door  warped_fungus_on_a_stick   05
 Universal Altimeter    clock                      06
 Garnet                 clock                      07
-Garnet Ore             red_nether_brick_slab      08
+Garnet Ore             glow_item_frame            08 * wooden_shovel -> Garnet Ore Overlay
 Void Veil              warped_fungus_on_a_stick   09
 Nadir Gel              charcoal                   10
 Hiatuan Cloth          clock                      11
 Midnight Broth         suspicious_stew            12
+Fallen Apple           apple                      13
 
 -=Entities=-
 

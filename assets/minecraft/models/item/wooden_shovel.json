@@ -5,6 +5,9 @@
     },
     "overrides":[
 
+     {"predicate": {"custom_model_data": 4701004}, "model": "block/nullite_ore_overlay"},
+     {"predicate": {"custom_model_data": 4701008}, "model": "block/garnet_ore_overlay"},
+     
      {"predicate": {"custom_model_data": 4701050}, "model": "item/occulus"},
      {"predicate": {"custom_model_data": 4701051}, "model": "item/cochineal"},
      {"predicate": {"custom_model_data": 4701052}, "model": "item/void_veil"},
