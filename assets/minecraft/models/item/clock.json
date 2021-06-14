@@ -73,7 +73,8 @@
 
       {"predicate": {"custom_model_data": 4701006}, "model": "item/universal_altimeter"},
       {"predicate": {"custom_model_data": 4701007}, "model": "item/garnet"},
-      {"predicate": {"custom_model_data": 4701011}, "model": "item/hiatuan_cloth"}
+      {"predicate": {"custom_model_data": 4701011}, "model": "item/hiatuan_cloth"},
+      {"predicate": {"custom_model_data": 4701015}, "model": "item/nulliron_ingot"}
 
     ]
 }

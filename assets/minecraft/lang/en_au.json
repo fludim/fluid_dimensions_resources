@@ -1,6 +1,7 @@
 {
   "block.fd.nullite_ore": "Nullite Ore",
   "block.fd.garnet_ore": "Garnet Ore",
+  "block.fd.ocular_forge": "Ocular Forge",
 
   "item.fd.sky_pearl": "Sky Pearl",
   "item.fd.stygian_iris": "Stygian Iris",
@@ -12,7 +13,13 @@
   "item.fd.nadir_gel": "Nadir Gel",
   "item.fd.hiatuan_cloth": "Hiatuan Cloth",
   "item.fd.midnight_broth": "Midnight Broth",
+  "item.fd.fallen_apple": "Fallen Apple",
   "item.fd.sharpened_diamond_pickaxe": "Sharpened Diamond Pickaxe",
+  "item.fd.nulliron_ingot": "Nulliron Ingot",
+  "item.fd.nulliron_helmet": "Nulliron Helmet",
+  "item.fd.nulliron_chestplate": "Nulliron Chestplate",
+  "item.fd.nulliron_leggings": "Nulliron Leggings",
+  "item.fd.nulliron_boots": "Nulliron Boots",
 
   "advancement.fd.another_way.t": "Another Way",
   "advancement.fd.another_way.d": "§9Travel between dimensions by flying (or falling), rather than portals",
@@ -40,7 +47,5 @@
   "entity.fd.haunted_armor": "Haunted Armour",
   "entity.fd.i": "I",
 
-  "build.tooHigh": "It's too far from the ground up here",
-
-  "annoyingcommastopper": ","
+  "build.tooHigh": "It's too far from the ground up here"
 }

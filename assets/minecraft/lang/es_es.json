@@ -1,10 +1,11 @@
 {
-  "block.fd.nullite_ore": "Mena de nullite",
+  "block.fd.nullite_ore": "Mena de nullita",
   "block.fd.garnet_ore": "Mena de granate",
+  "block.fd.ocular_forge": "Fragua ocular",
 
   "item.fd.sky_pearl": "Perla del cielo",
   "item.fd.stygian_iris": "Iris estigio",
-  "item.fd.nullite_piece": "Pieza de nullite",
+  "item.fd.nullite_piece": "Pieza de nullita",
   "item.fd.enchanted_warped_door": "Puerta distorsionada encantada",
   "item.fd.universal_altimeter": "Alt\u00edmetro universal",
   "item.fd.garnet": "Granate",
@@ -12,7 +13,13 @@
   "item.fd.nadir_gel": "Gel del nadir",
   "item.fd.hiatuan_cloth": "Pa\u00f1o hiatuan",
   "item.fd.midnight_broth": "Caldo de medianoche",
+  "item.fd.fallen_apple": "Manzana Ca\u00eddo",
   "item.fd.sharpened_diamond_pickaxe": "Pico de diamante afilado",
+  "item.fd.nulliron_ingot": "Lingote de nullahierro",
+  "item.fd.nulliron_helmet": "Casco de nullahierro",
+  "item.fd.nulliron_chestplate": "Peto de nullahierro",
+  "item.fd.nulliron_leggings": "Grebas de nullahierro",
+  "item.fd.nulliron_boots": "Botas de nullahierro",
 
   "advancement.fd.another_way.t": "De otra manera",
   "advancement.fd.another_way.d": "§9Viajar entre dimensiones volando (o cayendo), en lugar de usar portales",
@@ -23,7 +30,7 @@
   "advancement.fd.nothing_to_see_here.t": "§5Nada que ver aqu\u00ed",
   "advancement.fd.nothing_to_see_here.d": "§9Alcanza un kil\u00f3metro de altura en el Cielo Superior",
   "advancement.fd.obtain_nullite.t": "Encontraste un ",
-  "advancement.fd.obtain_nullite.d": "§9Recoge una pieza de nullite",
+  "advancement.fd.obtain_nullite.d": "§9Recoge una pieza de nullita",
   "advancement.fd.obtain_sky_pearl.t": "Para mi collar de nubes",
   "advancement.fd.obtain_sky_pearl.d": "§9Recoge una perla del cielo. Me pregunto que hace...",
   "advancement.fd.root.t": "§6§lDimensiones Fluidos",
@@ -40,7 +47,5 @@
   "entity.fd.haunted_armor": "Armadura pose\u00edda",
   "entity.fd.i": "I",
 
-  "build.tooHigh": "Est\u00e1 demasiado lejos del suelo aqu\u00ed",
-
-  "annoyingcommastopper": ","
+  "build.tooHigh": "Est\u00e1 demasiado lejos del suelo aqu\u00ed"
 }

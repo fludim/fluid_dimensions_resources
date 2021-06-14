@@ -1,0 +1,33 @@
+{
+	"textures": {
+		"texture": "gui/ocular_forge/gui"
+	},
+	"elements": [ 
+		{
+			"from": [ -16, -7.5, -16 ],
+			"to": [ 32, 32, 32 ],
+			"shade":false,
+			"faces": {
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"firstperson_lefthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0, 0, 0 ]
+		},
+		"gui": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 72, -15, -50 ],
+			"scale": [ 3.65, 2, 3.65 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 17.83, -17.69, 0 ],
+			"scale": [ 0, 0, 0 ]
+		}
+	}
+}
