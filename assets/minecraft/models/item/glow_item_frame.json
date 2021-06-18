@@ -6,7 +6,9 @@
     "overrides":[
 
      {"predicate": {"custom_model_data": 4701004}, "model": "block/nullite_ore"},
-     {"predicate": {"custom_model_data": 4701008}, "model": "block/garnet_ore"}
+     {"predicate": {"custom_model_data": 4701008}, "model": "block/garnet_ore"},
+     {"predicate": {"custom_model_data": 4701020}, "model": "block/garnet_block"},
+     {"predicate": {"custom_model_data": 4701021}, "model": "block/nulliron_block"}
 
      ]
 }

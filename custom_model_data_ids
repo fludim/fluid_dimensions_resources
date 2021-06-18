@@ -28,6 +28,8 @@ Nulliron Helmet        leather_helmet             16
 Nulliron Chestplate    leather_chestplate         17
 Nulliron Leggings      leather_leggings           18
 Nulliron Boots         leather_boots              19
+Garnet Block           glow_item_frame            20
+Nulliron Block         glow_item_frame            21
 
 -=Entities=-
 
