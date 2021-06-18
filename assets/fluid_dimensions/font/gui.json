@@ -3,8 +3,8 @@
     {
       "type": "bitmap",
       "file": "fluid_dimensions:gui/gui.png",
-      "ascent": 12,
-      "height": 82,
+      "ascent": 13,
+      "height": 83,
       "chars": [
         "\uF844"
       ]
