@@ -1,7 +1,7 @@
 Root: 47010
 
 Combine to get the full value;
-e.g. Root + Sky Pearl => 47010+01 => {CustomModelData:4701001} for specified item
+e.g. Root + Sky Pearl => 47010+01 => {CustomModelData:4701001} for specified item.
 
 I kept all the values different anyway just so it's easier, even if they have another base item.
 
@@ -22,12 +22,14 @@ Nadir Gel              charcoal                   10
 Hiatuan Cloth          clock                      11
 Midnight Broth         suspicious_stew            12
 Fallen Apple           apple                      13
-Ocular Forge           zombie_villager_spawn_egg  14
+Ocular Forge           glow_item_frame            14 * wooden_shovel -> Ocular Forge
 Nulliron Ingot         clock                      15
 Nulliron Helmet        leather_helmet             16
 Nulliron Chestplate    leather_chestplate         17
 Nulliron Leggings      leather_leggings           18
 Nulliron Boots         leather_boots              19
+Garnet Block           glow_item_frame            20
+Nulliron Block         glow_item_frame            21
 
 -=Entities=-
 

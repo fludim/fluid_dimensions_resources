@@ -2,20 +2,20 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "fluid_dimensions:gui/gui.png",
-      "ascent": 12,
-      "height": 82,
-      "chars": [
-        "\uF844"
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "fluid_dimensions:gui/empty.png",
       "ascent": -3000,
       "height": -10,
       "chars": [
         "\uF843"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "fluid_dimensions:gui/gui.png",
+      "ascent": 13,
+      "height": 83,
+      "chars": [
+        "\uF844"
       ]
     }
   ]
