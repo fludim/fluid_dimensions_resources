@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Bleckbonch",
 	"textures": {
-		"0": "veil/cloth",
-		"1": "veil/veil",
-		"particle": "veil/cloth"
+		"0": "entity/psirot/cloth",
+		"1": "entity/psirot/veil",
+		"particle": "entity/psirot/cloth"
 	},
 	"elements": [
 		{
