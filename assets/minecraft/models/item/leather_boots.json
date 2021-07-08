@@ -7,7 +7,7 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 4701019
+                "custom_model_data": 4470019
             },
             "model": "item/nulliron_boots"
         }

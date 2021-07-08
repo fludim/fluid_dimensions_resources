@@ -4,6 +4,6 @@
       "layer0": "minecraft:block/white_stained_glass"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 4701099}, "model": "gui/ocular_forge/empty"}
+        {"predicate": {"custom_model_data": 4470099}, "model": "gui/ocular_forge/empty"}
     ]
   }

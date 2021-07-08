@@ -1,9 +1,7 @@
-Root: 47010
+Root: 447(00)
 
 Combine to get the full value;
-e.g. Root + Sky Pearl => 47010+01 => {CustomModelData:4701001} for specified item.
-
-I kept all the values different anyway just so it's easier, even if they have another base item.
+e.g. Root + Sky Pearl => 44700+01 => {CustomModelData:4470001} for specified item.
 
 Unicode Info: This pack uses \uF843, \uF844.
 

@@ -7,7 +7,7 @@
     },
     "overrides":[
 
-     {"predicate": {"custom_model_data": 4701008}, "model": "block/garnet_ore"}
+     {"predicate": {"custom_model_data": 4470008}, "model": "block/garnet_ore"}
 
      ]
 }

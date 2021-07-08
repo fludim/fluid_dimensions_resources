@@ -5,8 +5,8 @@
     },
     "overrides":[
 
-     {"predicate": {"custom_model_data": 4701005}, "model": "item/enchanted_warped_door"},
-     {"predicate": {"custom_model_data": 4701009}, "model": "item/void_veil"}
+     {"predicate": {"custom_model_data": 4470005}, "model": "item/enchanted_warped_door"},
+     {"predicate": {"custom_model_data": 4470009}, "model": "item/void_veil"}
 
      ]
 }

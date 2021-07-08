@@ -7,7 +7,7 @@
     },
     "overrides":[
 
-     {"predicate": {"custom_model_data": 4701004}, "model": "block/nullite_ore"}
+     {"predicate": {"custom_model_data": 4470004}, "model": "block/nullite_ore"}
 
      ]
 }

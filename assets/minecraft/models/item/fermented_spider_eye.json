@@ -5,7 +5,7 @@
     },
     "overrides":[
 
-     {"predicate": {"custom_model_data": 4701003}, "model": "item/nullite_piece"}
+     {"predicate": {"custom_model_data": 4470003}, "model": "item/nullite_piece"}
 
      ]
 }

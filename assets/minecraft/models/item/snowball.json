@@ -5,7 +5,7 @@
     },
     "overrides":[
 
-     {"predicate": {"custom_model_data": 4701001}, "model": "item/sky_pearl"}
+     {"predicate": {"custom_model_data": 4470001}, "model": "item/sky_pearl"}
 
      ]
 }

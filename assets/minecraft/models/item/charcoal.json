@@ -5,7 +5,7 @@
     },
     "overrides":[
 
-      {"predicate": {"custom_model_data": 4701010}, "model": "item/nadir_gel"}
+      {"predicate": {"custom_model_data": 4470010}, "model": "item/nadir_gel"}
 
     ]
 }

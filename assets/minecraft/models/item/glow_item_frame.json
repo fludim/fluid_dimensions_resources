@@ -5,11 +5,11 @@
     },
     "overrides":[
 
-     {"predicate": {"custom_model_data": 4701004}, "model": "block/nullite_ore"},
-     {"predicate": {"custom_model_data": 4701008}, "model": "block/garnet_ore"},
-     {"predicate": {"custom_model_data": 4701014}, "model": "block/ocular_forge"},
-     {"predicate": {"custom_model_data": 4701020}, "model": "block/garnet_block"},
-     {"predicate": {"custom_model_data": 4701021}, "model": "block/nulliron_block"}
+     {"predicate": {"custom_model_data": 4470004}, "model": "block/nullite_ore"},
+     {"predicate": {"custom_model_data": 4470008}, "model": "block/garnet_ore"},
+     {"predicate": {"custom_model_data": 4470014}, "model": "block/ocular_forge"},
+     {"predicate": {"custom_model_data": 4470020}, "model": "block/garnet_block"},
+     {"predicate": {"custom_model_data": 4470021}, "model": "block/nulliron_block"}
 
      ]
 }

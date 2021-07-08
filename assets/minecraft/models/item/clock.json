@@ -71,10 +71,10 @@
       { "predicate": { "time": 0.9765625 }, "model": "item/clock_63" },
       { "predicate": { "time": 0.9921875 }, "model": "item/clock" },
 
-      {"predicate": {"custom_model_data": 4701006}, "model": "item/universal_altimeter"},
-      {"predicate": {"custom_model_data": 4701007}, "model": "item/garnet"},
-      {"predicate": {"custom_model_data": 4701011}, "model": "item/hiatuan_cloth"},
-      {"predicate": {"custom_model_data": 4701015}, "model": "item/nulliron_ingot"}
+      {"predicate": {"custom_model_data": 4470006}, "model": "item/universal_altimeter"},
+      {"predicate": {"custom_model_data": 4470007}, "model": "item/garnet"},
+      {"predicate": {"custom_model_data": 4470011}, "model": "item/hiatuan_cloth"},
+      {"predicate": {"custom_model_data": 4470015}, "model": "item/nulliron_ingot"}
 
     ]
 }

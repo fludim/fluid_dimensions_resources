@@ -5,21 +5,21 @@
     },
     "overrides":[
 
-     {"predicate": {"custom_model_data": 4701004}, "model": "block/nullite_ore_overlay"},
-     {"predicate": {"custom_model_data": 4701008}, "model": "block/garnet_ore_overlay"},
-     {"predicate": {"custom_model_data": 4701014}, "model": "block/ocular_forge"},
-     {"predicate": {"custom_model_data": 4701020}, "model": "block/garnet_block_overlay"},
-     {"predicate": {"custom_model_data": 4701021}, "model": "block/nulliron_block_overlay"},
+     {"predicate": {"custom_model_data": 4470004}, "model": "block/nullite_ore_overlay"},
+     {"predicate": {"custom_model_data": 4470008}, "model": "block/garnet_ore_overlay"},
+     {"predicate": {"custom_model_data": 4470014}, "model": "block/ocular_forge"},
+     {"predicate": {"custom_model_data": 4470020}, "model": "block/garnet_block_overlay"},
+     {"predicate": {"custom_model_data": 4470021}, "model": "block/nulliron_block_overlay"},
      
-     {"predicate": {"custom_model_data": 4701050}, "model": "item/occulus"},
-     {"predicate": {"custom_model_data": 4701051}, "model": "item/cochineal"},
-     {"predicate": {"custom_model_data": 4701052}, "model": "item/psirot/head"},
-     {"predicate": {"custom_model_data": 4701053}, "model": "item/psirot/hand"},
-     {"predicate": {"custom_model_data": 4701054}, "model": "item/pod/stage_0"},
-     {"predicate": {"custom_model_data": 4701055}, "model": "item/pod/stage_1"},
-     {"predicate": {"custom_model_data": 4701056}, "model": "item/pod/stage_2"},
-     {"predicate": {"custom_model_data": 4701057}, "model": "item/pod/stage_3"},
-     {"predicate": {"custom_model_data": 4701058}, "model": "item/pod/ripe"}
+     {"predicate": {"custom_model_data": 4470050}, "model": "item/occulus"},
+     {"predicate": {"custom_model_data": 4470051}, "model": "item/cochineal"},
+     {"predicate": {"custom_model_data": 4470052}, "model": "item/psirot/head"},
+     {"predicate": {"custom_model_data": 4470053}, "model": "item/psirot/hand"},
+     {"predicate": {"custom_model_data": 4470054}, "model": "item/pod/stage_0"},
+     {"predicate": {"custom_model_data": 4470055}, "model": "item/pod/stage_1"},
+     {"predicate": {"custom_model_data": 4470056}, "model": "item/pod/stage_2"},
+     {"predicate": {"custom_model_data": 4470057}, "model": "item/pod/stage_3"},
+     {"predicate": {"custom_model_data": 4470058}, "model": "item/pod/ripe"}
 
      ]
 }
