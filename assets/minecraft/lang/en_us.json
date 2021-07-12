@@ -1,6 +1,10 @@
 {
+  "missing.fd": "missingno",
+
   "block.fd.nullite_ore": "Nullite Ore",
+  "block.fd.nulliron_block": "Nulliron Block",
   "block.fd.garnet_ore": "Garnet Ore",
+  "block.fd.garnet_block": "Garnet Block",
   "block.fd.ocular_forge": "Ocular Forge",
 
   "item.fd.sky_pearl": "Sky Pearl",
@@ -46,6 +50,11 @@
   "entity.fd.psirot": "Psirot",
   "entity.fd.haunted_armor": "Haunted Armor",
   "entity.fd.i": "I",
+
+  "attribute.fd.generic.fall_safe": "Negate most fall damage",
+  "attribute.fd.generic.solidity": "Negate knockback",
+  "attribute.fd.generic.fire_affinity": "Negates fire damage temporarily",
+  "attribute.fd.generic.suffocation_safe": "Negates suffocation damage",
 
   "build.tooHigh": "It's too far from the ground up here"
 }
