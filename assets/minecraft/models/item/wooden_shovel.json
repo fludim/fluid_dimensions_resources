@@ -10,6 +10,7 @@
      {"predicate": {"custom_model_data": 4470014}, "model": "block/ocular_forge_overlay"},
      {"predicate": {"custom_model_data": 4470020}, "model": "block/garnet_block_overlay"},
      {"predicate": {"custom_model_data": 4470021}, "model": "block/nulliron_block_overlay"},
+     {"predicate": {"custom_model_data": 4470022}, "model": "block/ocular_forge_overlay_open"},
      
      {"predicate": {"custom_model_data": 4470050}, "model": "item/occulus"},
      {"predicate": {"custom_model_data": 4470051}, "model": "item/cochineal"},

@@ -1,6 +1,10 @@
 {
+  "missing.fd": "missingno",
+
   "block.fd.nullite_ore": "Mena de nullita",
+  "block.fd.nulliron_block": "Bloque de nullahierro",
   "block.fd.garnet_ore": "Mena de granate",
+  "block.fd.garnet_block": "Bloque de granate",
   "block.fd.ocular_forge": "Fragua ocular",
 
   "item.fd.sky_pearl": "Perla del cielo",
@@ -46,6 +50,11 @@
   "entity.fd.psirot": "Psirot",
   "entity.fd.haunted_armor": "Armadura pose\u00edda",
   "entity.fd.i": "I",
+
+  "attribute.fd.generic.fall_safe": "Niegan la mayor\u00eda del da\u00f1o por ca\u00edda",
+  "attribute.fd.generic.solidity": "Niegan el empuje",
+  "attribute.fd.generic.fire_affinity": "Niega temporalmente el da\u00f1o por fuego",
+  "attribute.fd.generic.suffocation_safe": "Niega el da\u00f1o por asfixia",
 
   "build.tooHigh": "Est\u00e1 demasiado lejos del suelo aqu\u00ed"
 }
