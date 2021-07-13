@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Bleckbonch",
 	"textures": {
-		"0": "entity/eyething/magmacube",
-		"1": "entity/eyething/basalt_side",
-		"3": "entity/eyething/blackstone",
+		"0": "minecraft:entity/slime/magmacube",
+		"1": "minecraft:block/basalt_side",
+		"3": "minecraft:block/blackstone",
 		"6": "entity/eyething/black",
-		"9": "entity/eyething/crimson_nylium",
-		"11": "entity/eyething/netherite_block",
-		"particle": "entity/eyething/magmacube"
+		"9": "minecraft:block/crimson_nylium",
+		"11": "minecraft:block/netherite_block",
+		"particle": "minecraft:entity/slime/magmacube"
 	},
 	"elements": [
 		{
