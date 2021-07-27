@@ -1,7 +1,0 @@
-{
-  "variants": {
-    "type=double,waterlogged=true": {
-      "model": "minecraft:block/nullite_ore"
-    }
-  }
-}
