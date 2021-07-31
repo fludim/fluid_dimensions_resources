@@ -30,13 +30,14 @@ Garnet Block           glow_item_frame            20
 Nulliron Block         glow_item_frame            21
 Ocular Forge Open      glow_item_frame            22 * wooden_shovel -> Ocular Forge Overlay Open
 Nadir Tunneller        warped_fungus_on_a_stick   23
+Heart of the Void      clock                      24
 
 -=Entities=-
 
 Occulus                wooden_shovel              50
 Cochineal              wooden_shovel              51
 Psirot Head            wooden_shovel              52
-Psirot Arm             wooden_shovel              53
+Psirot Hand            wooden_shovel              53
 Pod Stage 0            wooden_shovel              54
 Pod Stage 1            wooden_shovel              55
 Pod Stage 2            wooden_shovel              56
