@@ -12,15 +12,16 @@
      {"predicate": {"custom_model_data": 4470021}, "model": "block/nulliron_block_overlay"},
      {"predicate": {"custom_model_data": 4470022}, "model": "block/ocular_forge_overlay_open"},
      
-     {"predicate": {"custom_model_data": 4470050}, "model": "item/occulus"},
-     {"predicate": {"custom_model_data": 4470051}, "model": "item/cochineal"},
-     {"predicate": {"custom_model_data": 4470052}, "model": "item/psirot/head"},
-     {"predicate": {"custom_model_data": 4470053}, "model": "item/psirot/hand"},
-     {"predicate": {"custom_model_data": 4470054}, "model": "item/pod/stage_0"},
-     {"predicate": {"custom_model_data": 4470055}, "model": "item/pod/stage_1"},
-     {"predicate": {"custom_model_data": 4470056}, "model": "item/pod/stage_2"},
-     {"predicate": {"custom_model_data": 4470057}, "model": "item/pod/stage_3"},
-     {"predicate": {"custom_model_data": 4470058}, "model": "item/pod/ripe"}
+     {"predicate": {"custom_model_data": 4470050}, "model": "entity/i/i"},
+     {"predicate": {"custom_model_data": 4470051}, "model": "entity/cochineal"},
+     {"predicate": {"custom_model_data": 4470052}, "model": "entity/psirot/head"},
+     {"predicate": {"custom_model_data": 4470053}, "model": "entity/psirot/hand"},
+     {"predicate": {"custom_model_data": 4470054}, "model": "entity/pod/stage_0"},
+     {"predicate": {"custom_model_data": 4470055}, "model": "entity/pod/stage_1"},
+     {"predicate": {"custom_model_data": 4470056}, "model": "entity/pod/stage_2"},
+     {"predicate": {"custom_model_data": 4470057}, "model": "entity/pod/stage_3"},
+     {"predicate": {"custom_model_data": 4470058}, "model": "entity/pod/ripe"},
+     {"predicate": {"custom_model_data": 4470059}, "model": "entity/i/i_stage_3"}
 
      ]
 }
