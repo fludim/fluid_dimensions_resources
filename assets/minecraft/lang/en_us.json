@@ -26,6 +26,7 @@
   "item.fd.nulliron_boots": "Nulliron Boots",
   "item.fd.nadir_tunneller": "Nadir Tunneler",
   "item.fd.heart_of_the_void": "Heart of the Void",
+  "item.fd.a_vile_effluvium": "A Vile Effluvium",
 
   "advancement.fd.another_way.t": "Another Way",
   "advancement.fd.another_way.d": "§9Travel between dimensions by flying (or falling), rather than portals",
@@ -54,6 +55,7 @@
   "entity.fd.psirot": "Psirot",
   "entity.fd.haunted_armor": "Haunted Armor",
   "entity.fd.i": "I",
+  "entity.fd.echo": "Echo",
 
   "attribute.fd.generic.fall_safe": "Negate most fall damage",
   "attribute.fd.generic.solidity": "Negate knockback",

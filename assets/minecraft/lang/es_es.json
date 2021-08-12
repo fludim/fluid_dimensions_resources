@@ -26,6 +26,7 @@
   "item.fd.nulliron_boots": "Botas de nullahierro",
   "item.fd.nadir_tunneller": "Tunelizador del nadir",
   "item.fd.heart_of_the_void": "Corazón del Vacío",
+  "item.fd.a_vile_effluvium": "Un vil efluvio",
 
   "advancement.fd.another_way.t": "De otra manera",
   "advancement.fd.another_way.d": "§9Viajar entre dimensiones volando (o cayendo), en lugar de usar portales",
@@ -54,6 +55,7 @@
   "entity.fd.psirot": "Psirot",
   "entity.fd.haunted_armor": "Armadura poseída",
   "entity.fd.i": "I",
+  "entity.fd.echo": "Eco",
 
   "attribute.fd.generic.fall_safe": "Niegan la mayoría del daño por caída",
   "attribute.fd.generic.solidity": "Niegan el empuje",
