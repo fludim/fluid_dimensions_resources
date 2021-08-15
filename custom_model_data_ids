@@ -31,6 +31,9 @@ Nulliron Block         glow_item_frame            21
 Ocular Forge Open      glow_item_frame            22 * wooden_shovel -> Ocular Forge Overlay Open
 Nadir Tunneller        warped_fungus_on_a_stick   23
 Heart of the Void      clock                      24
+Bottled Miasma         clock                      25
+Volatile Effluvia      lingering_potion           26
+Realmglass             clock                      27
 
 -=Entities=-
 

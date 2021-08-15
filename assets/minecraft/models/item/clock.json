@@ -76,7 +76,8 @@
       {"predicate": {"custom_model_data": 4470011}, "model": "item/hiatuan_cloth"},
       {"predicate": {"custom_model_data": 4470015}, "model": "item/nulliron_ingot"},
       {"predicate": {"custom_model_data": 4470024}, "model": "item/heart_of_the_void"},
-      {"predicate": {"custom_model_data": 4470025}, "model": "item/miasma"}
+      {"predicate": {"custom_model_data": 4470025}, "model": "item/miasma"},
+      {"predicate": {"custom_model_data": 4470027}, "model": "item/realmglass"}
 
     ]
 }
