@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "gui/ocular_forge/empty",
+        "layer1": "item/volatile_effluvia"
+    }
+}
