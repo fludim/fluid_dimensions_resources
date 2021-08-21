@@ -49,7 +49,9 @@
   "advancement.fd.the_abyss.t": "El Abismo",
   "advancement.fd.the_abyss.d": "§9Visita la dimensión Underridge",
   "advancement.fd.no_hands.t": "¡Mira mamá, sin manos!",
-  "advancement.fd.no_hands.d": "Mata a un Psirot que no tiene manos",
+  "advancement.fd.no_hands.d": "§9Mata a un Psirot que no tiene manos",
+  "advancement.fd.full_nulliron.t": "Incubrible",
+  "advancement.fd.full_nulliron.d": "§9Lleva todas las piezas de armadura de nullahierro",
 
   "actionbar.fd.absolute_y_position": "Posición vertical absoluta: ",
 
