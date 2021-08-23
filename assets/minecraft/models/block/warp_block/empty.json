@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Bleckbonch",
+	"textures": {
+		"0": "block/warp_block/empty",
+		"particle": "block/warp_block/empty"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"scale": [2.005, 2.005, 2.005],
+			"translation": [0, 0, -16],
+			"rotation": [-90, 0, 0]
+		}
+	}
+}

@@ -1,52 +1,62 @@
 Root: 447(00)
 
 Combine to get the full value;
-e.g. Root + Sky Pearl => 44700+01 => {CustomModelData:4470001} for specified item.
+e.g. Root + Sky Pearl => 447+(00)+01 => {CustomModelData:4470001} for specified item.
 
 Unicode Info: This pack uses \uF843, \uF844.
 
 -=Items=-
 
-Sky Pearl              snowball                   01
-Stygian Iris           knowledge_book             02
-Nullite Piece          fermented_spider_eye       03
-Nullite Ore            glow_item_frame            04 * wooden_shovel -> Nullite Ore Overlay
-Enchanted Warped Door  warped_fungus_on_a_stick   05
-Universal Altimeter    clock                      06
-Garnet                 clock                      07
-Garnet Ore             glow_item_frame            08 * wooden_shovel -> Garnet Ore Overlay
-Void Veil              warped_fungus_on_a_stick   09
-Nadir Gel              charcoal                   10
-Hiatuan Cloth          clock                      11
-Midnight Broth         suspicious_stew            12
-Fallen Apple           apple                      13
-Ocular Forge           glow_item_frame            14 * wooden_shovel -> Ocular Forge Overlay
-Nulliron Ingot         clock                      15
-Nulliron Helmet        leather_helmet             16
-Nulliron Chestplate    leather_chestplate         17
-Nulliron Leggings      leather_leggings           18
-Nulliron Boots         leather_boots              19
-Garnet Block           glow_item_frame            20
-Nulliron Block         glow_item_frame            21
-Ocular Forge Open      glow_item_frame            22 * wooden_shovel -> Ocular Forge Overlay Open
-Nadir Tunneller        warped_fungus_on_a_stick   23
-Heart of the Void      clock                      24
-Bottled Miasma         clock                      25
-Volatile Effluvia      lingering_potion           26
-Realmglass             clock                      27
+Sky Pearl                       snowball                   01
+Stygian Iris                    knowledge_book             02
+Nullite Piece                   fermented_spider_eye       03
+Nullite Ore                     glow_item_frame            04 * wooden_shovel -> Nullite Ore Overlay
+Enchanted Warped Door           warped_fungus_on_a_stick   05
+Universal Altimeter             clock                      06
+Garnet                          clock                      07
+Garnet Ore                      glow_item_frame            08 * wooden_shovel -> Garnet Ore Overlay
+Void Veil                       warped_fungus_on_a_stick   09
+Nadir Gel                       charcoal                   10
+Hiatuan Cloth                   clock                      11
+Midnight Broth                  suspicious_stew            12
+Fallen Apple                    apple                      13
+Ocular Forge                    glow_item_frame            14 * wooden_shovel -> Ocular Forge Overlay
+Nulliron Ingot                  clock                      15
+Nulliron Helmet                 leather_helmet             16
+Nulliron Chestplate             leather_chestplate         17
+Nulliron Leggings               leather_leggings           18
+Nulliron Boots                  leather_boots              19
+Garnet Block                    glow_item_frame            20 * wooden_shovel -> Garnet Block Overlay
+Nulliron Block                  glow_item_frame            21 * wooden_shovel -> Nulliron Block Overlay
+Ocular Forge Open               glow_item_frame            22 * wooden_shovel -> Ocular Forge Overlay Open
+Nadir Tunneller                 warped_fungus_on_a_stick   23
+Heart of the Void               clock                      24
+Bottled Miasma                  clock                      25
+Volatile Effluvia               lingering_potion           26
+Realmglass                      clock                      27
 
 -=Entities=-
 
-Occulus                wooden_shovel              50
-Cochineal              wooden_shovel              51
-Psirot Head            wooden_shovel              52
-Psirot Hand            wooden_shovel              53
-Pod Stage 0            wooden_shovel              54
-Pod Stage 1            wooden_shovel              55
-Pod Stage 2            wooden_shovel              56
-Pod Stage 3            wooden_shovel              57
-Pod Stage 4            wooden_shovel              58
+I                               wooden_shovel              50
+Cochineal                       wooden_shovel              51
+Psirot Head                     wooden_shovel              52
+Psirot Hand                     wooden_shovel              53
+Pod Stage 0                     wooden_shovel              54
+Pod Stage 1                     wooden_shovel              55
+Pod Stage 2                     wooden_shovel              56
+Pod Stage 3                     wooden_shovel              57
+Pod Stage 4                     wooden_shovel              58
 
 -=Utility=-
 
-Empty GUI Slot         white_stained_glass_pane   99
+Empty GUI Slot                  white_stained_glass_pane   99
+
+-=Warp Blocks=-
+
+Empty Warp Block                wooden_shovel              101
+Charged Warp Block - Warp       wooden_shovel              102
+Charged Warp Block - Underridge wooden_shovel              103
+Charged Warp Block - Nether     wooden_shovel              104
+Charged Warp Block - Overworld  wooden_shovel              105
+Charged Warp Block - Upper Sky  wooden_shovel              106
+Charged Warp Block - End        wooden_shovel              107

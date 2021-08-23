@@ -21,7 +21,15 @@
      {"predicate": {"custom_model_data": 4470056}, "model": "entity/pod/stage_2"},
      {"predicate": {"custom_model_data": 4470057}, "model": "entity/pod/stage_3"},
      {"predicate": {"custom_model_data": 4470058}, "model": "entity/pod/ripe"},
-     {"predicate": {"custom_model_data": 4470059}, "model": "entity/i/i_stage_3"}
+     {"predicate": {"custom_model_data": 4470059}, "model": "entity/i/i_stage_3"},
+
+     {"predicate": {"custom_model_data": 4470101}, "model": "block/warp_block/empty"},
+     {"predicate": {"custom_model_data": 4470102}, "model": "block/warp_block/warp"},
+     {"predicate": {"custom_model_data": 4470103}, "model": "block/warp_block/underridge"},
+     {"predicate": {"custom_model_data": 4470104}, "model": "block/warp_block/nether"},
+     {"predicate": {"custom_model_data": 4470105}, "model": "block/warp_block/overworld"},
+     {"predicate": {"custom_model_data": 4470106}, "model": "block/warp_block/upper_sky"},
+     {"predicate": {"custom_model_data": 4470107}, "model": "block/warp_block/end"}
 
      ]
 }
