@@ -6,6 +6,7 @@
   "block.fd.garnet_ore": "Garnet Ore",
   "block.fd.garnet_block": "Garnet Block",
   "block.fd.ocular_forge": "Ocular Forge",
+  "block.fd.icon_skull": "FD Advancement Icon",
 
   "item.fd.sky_pearl": "Sky Pearl",
   "item.fd.stygian_iris": "Stygian Iris",
@@ -65,6 +66,11 @@
   "attribute.fd.generic.solidity": "Negate knockback",
   "attribute.fd.generic.fire_affinity": "Negates fire damage temporarily",
   "attribute.fd.generic.suffocation_safe": "Negates suffocation damage",
+
+  "lore.fd.stygian_iris.1": "Summons the powerful boss",
+  "lore.fd.stygian_iris.2": "of the Underridge Dimension",
+  "lore.fd.void_veil.1": "Protects the wearer from damage",
+  "lore.fd.void_veil.2": "while navigating the void",
 
   "build.tooHigh": "It's too far from the ground up here"
 }

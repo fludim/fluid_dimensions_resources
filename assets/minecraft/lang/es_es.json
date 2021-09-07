@@ -6,6 +6,7 @@
   "block.fd.garnet_ore": "Mena de granate",
   "block.fd.garnet_block": "Bloque de granate",
   "block.fd.ocular_forge": "Fragua ocular",
+  "block.fd.icon_skull": "FD icono de avance",
 
   "item.fd.sky_pearl": "Perla del cielo",
   "item.fd.stygian_iris": "Iris estigio",
@@ -65,6 +66,11 @@
   "attribute.fd.generic.solidity": "Niegan el empuje",
   "attribute.fd.generic.fire_affinity": "Niega temporalmente el daño por fuego",
   "attribute.fd.generic.suffocation_safe": "Niega el daño por asfixia",
+
+  "lore.fd.stygian_iris.1": "Convoca al poderoso jefe",
+  "lore.fd.stygian_iris.2": "de la dimensión Underridge",
+  "lore.fd.void_veil.1": "Protege al usuario del daño",
+  "lore.fd.void_veil.2": "mientras navega por el vacío",
 
   "build.tooHigh": "Está demasiado lejos del suelo aquí"
 }
