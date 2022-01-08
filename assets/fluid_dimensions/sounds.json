@@ -1,0 +1,12 @@
+{
+    "white_noise": {
+        "sounds": [
+            {
+                "name": "fluid_dimensions:white_noise",
+                "stream": false,
+                "attenuation_distance": 8,
+                "preload": true
+            }
+        ]
+    }
+}
