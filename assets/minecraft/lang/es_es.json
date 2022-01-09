@@ -64,7 +64,7 @@
 
   "attribute.fd.generic.fall_safe": "Niegan la mayoría del daño por caída",
   "attribute.fd.generic.solidity": "Niegan el empuje",
-  "attribute.fd.generic.fire_affinity": "Niega temporalmente el daño por fuego",
+  "attribute.fd.generic.fire_affinity": "El fuego niega temporalmente el daño por fuego",
   "attribute.fd.generic.suffocation_safe": "Niega el daño por asfixia",
 
   "lore.fd.stygian_iris.1": "Convoca al poderoso jefe",

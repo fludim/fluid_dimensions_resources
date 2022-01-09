@@ -64,7 +64,7 @@
 
   "attribute.fd.generic.fall_safe": "Negate most fall damage",
   "attribute.fd.generic.solidity": "Negate knockback",
-  "attribute.fd.generic.fire_affinity": "Negates fire damage temporarily",
+  "attribute.fd.generic.fire_affinity": "Fire negates fire damage temporarily",
   "attribute.fd.generic.suffocation_safe": "Negates suffocation damage",
 
   "lore.fd.stygian_iris.1": "Summons the powerful boss",
