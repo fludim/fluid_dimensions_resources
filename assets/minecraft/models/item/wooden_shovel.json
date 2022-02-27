@@ -22,6 +22,8 @@
      {"predicate": {"custom_model_data": 4470057}, "model": "entity/pod/stage_3"},
      {"predicate": {"custom_model_data": 4470058}, "model": "entity/pod/ripe"},
      {"predicate": {"custom_model_data": 4470059}, "model": "entity/i/i_stage_3"},
+     {"predicate": {"custom_model_data": 4470060}, "model": "entity/corium_cube/corium_cube"},
+     {"predicate": {"custom_model_data": 4470061}, "model": "entity/corium_cube/corium_cube_dead"},
 
      {"predicate": {"custom_model_data": 4470101}, "model": "block/warp_block/empty"},
      {"predicate": {"custom_model_data": 4470102}, "model": "block/warp_block/warp"},
